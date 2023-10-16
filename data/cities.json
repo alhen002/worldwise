@@ -1,3 +1,28 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Preserville",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-16T18:50:29.784Z",
+      "notes": "",
+      "position": {
+        "lat": "43.51668853502909",
+        "lng": "1.6259765625"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Cantalpino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-16T18:50:33.849Z",
+      "notes": "",
+      "position": {
+        "lat": "41.062786068733026",
+        "lng": "-5.339355468750001"
+      },
+      "id": 2
+    }
+  ]
 }
